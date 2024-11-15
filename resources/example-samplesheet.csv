@@ -1,0 +1,17 @@
+patient,sample,status,lane,fastq_1,fastq_2,sex
+patient1,normal,0,1,patient1normal_L001_1.fastq.gz,patient1normal_L001_2.fastq.gz,XY
+patient1,tumour,1,1,patient1tumour_L001_1.fastq.gz,patient1tumour_L001_2.fastq.gz,XY
+
+
+#patient = must be unique to every patient, but one patient can have multiple samples. i.e. tumour and normal
+
+
+
+#status = 0 normal
+#status = 1 tumor
+
+
+
+
+7,normal,0,1,fastq_1,fastq_2,XY
+7,tumour,1,1,fastq_1,fastq_2,XY
