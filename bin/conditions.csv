@@ -1,0 +1,5 @@
+sampleID,conditionOne,AdditionalColumns
+sample_1,GroupA,AdditionalInfo
+sample_2,GroupA,AdditionalInfo
+sample_three,GroupB,AdditionalInfo
+sample_four,GroupB,AdditionalInfo
